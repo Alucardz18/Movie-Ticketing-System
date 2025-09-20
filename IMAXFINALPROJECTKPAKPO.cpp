@@ -58,7 +58,7 @@ int main() {
     outputFile << "\nTicket total is $" << fixed << setprecision(2) << ticTotal << endl;
     outputFile << "Concession total is: $" << conTot << endl;
     outputFile << "Complete total is : $" << fixed << setprecision(2) << (taxAmount + conTot) << endl;
-    outputFile << "\nThank you. Enjoy your time. :)\n";
+    outputFile << "\nThank you. Enjoy your time. :)\n" << endl;
 
     // Close the file
     outputFile.close();

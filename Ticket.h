@@ -271,7 +271,7 @@ double ticket(ofstream& outputFile) {
                     outputFile << "Selected seats for " << namesMovies[movieIndex] << ":\n";
                     outputFile << "Price: $" << fixed << setprecision(2) << cost << endl << endl;;
                     for (int i = 0; i < count; ++i) {
-                        outputFile << namesMovies[movieIndex] << " \n" << chosenseats[i] << endl;
+                        outputFile << "Movie: " << namesMovies[movieIndex] << " \n" << chosenseats[i] << endl;
                         outputFile << "Recipt #: ";
                         int qr[10];
                         for (int i = 0; i < 10; i++) {

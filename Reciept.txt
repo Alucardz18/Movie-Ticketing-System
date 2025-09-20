@@ -106,3 +106,23 @@ Concession total is: $9.47
 Complete total is : $73.67
 
 Thank you. Enjoy your time. :)
+Selected seats for The Dictator:
+Price: $15.00
+
+Movie: The Dictator 
+Seat 11
+Recipt #: 1435202952
+Cut here->>---------
+
+*****************
+Selected Items:
+Popcorn x1: $11.900000
+Candy x1: $5.990000
+
+
+**************************
+Ticket total is $15.00
+Concession total is: $19.14
+Complete total is : $35.19
+
+Thank you. Enjoy your time. :)
